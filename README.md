@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BeaOD
 - 👀 I am interested in learning and the opportunity to develop
-- 🌱 I am  a software developer
-- 💞️ I am looking to collaborate on any html,css, js and react work
+- 🌱 I am  a software developer looking to collaborate on any html,css, js and react work
 - 📫 contact me here - owusubea@gmail.com
 
 <!---
